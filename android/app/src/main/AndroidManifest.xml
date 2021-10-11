@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.cce">
+    package="cce.abdelaleem.cce.host">
     <uses-permission android:name="android.permission.INTERNET"/>
     <queries>
         <!-- If your app opens https URLs -->
@@ -20,7 +20,7 @@
     </queries>
 
     <application
-        android:label="cce"
+        android:label="CCE"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
